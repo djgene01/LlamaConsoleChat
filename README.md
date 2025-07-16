@@ -20,7 +20,7 @@ bash
 Copy
 Edit
 # 1. Clone the repo
-git clone https://github.com/your-username/LlamaConsoleChat.git
+git clone https://github.com/djgene01/LlamaConsoleChat.git
 cd LlamaConsoleChat
 
 # 2. Restore & build
